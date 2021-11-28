@@ -28,6 +28,8 @@ mythic_notify - https://github.com/JayMontana36/mythic_notify
 
 progressBars - https://github.com/chipsahoy6/progressBars/releases/tag/1.0
 
+np-taskbarskill or similar (i dont have link for it)
+
 # To do
 If u are using bt-target just change events from qtarget to bt-target
 
